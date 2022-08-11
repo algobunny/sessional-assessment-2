@@ -1,0 +1,6 @@
+.footer a {
+    color: #fff;
+}
+.card:hover {
+    box-shadow: 2px 2px 2px 2px #817e7ef2;
+}
